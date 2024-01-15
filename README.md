@@ -1,4 +1,4 @@
-Certainly! Here's an updated README for your program:
+---
 
 # Triangle Validity Checker
 
@@ -39,3 +39,5 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 ## Author
 
 [Simon Paul]
+
+---
